@@ -21,6 +21,8 @@ Progress: resolved 70, reused 56, downloaded 14, added 70, done
 
 
 
+npm install 
+
 Then, i used this to run the api. 
 
 pnpx nx serve nest-workspace
